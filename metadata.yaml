@@ -1,13 +1,5 @@
-displayName: Check Cherry Event Tag
-description: Tracks conversion events from Check Cherry like bookings, leads, and payments.
-homepage: https://www.checkcherry.com
-author:
-  name: Check Cherry
-  url: https://www.checkcherry.com
-license: Apache-2.0
-version: 1.0.0
-categories:
-  - Conversion Tracking
-  - Event Tracking
-containerContexts:
-  - WEB
+homepage: "https://www.checkcherry.com"
+documentation: "https://www.checkcherry.com/support"
+versions:
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    changeNotes: Initial Version
